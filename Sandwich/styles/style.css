@@ -1,0 +1,40 @@
+body {
+	font-family: "Lato", sans-serif;
+}
+
+p {
+	color: black;
+	font-size; 60px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.heading {
+	color: black;
+	text-align: center;
+	font-size; 60px;
+}
+
+.output {
+	text-align: center;
+}
+
+.code-btn{
+  padding: 8px;
+  color: black;
+  background-color: #cccccc;
+  border: solid 2px lightslategray;
+  transition: all 0.3s ease 0s;
+  margin: 0 auto;
+}
+
+.code-btn:hover{
+  border-radius: 20px;
+  box-shadow: 0 0 25px red;
+  transition: all 0.3s ease 0s;
+}
+
+
+	
